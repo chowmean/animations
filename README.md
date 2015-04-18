@@ -1,4 +1,3 @@
-# animations
-Simple javascript animations
+# Animations [JavaScript]
 
-Animations that you can use in your websites
+-> Animations that you can use in your websites
